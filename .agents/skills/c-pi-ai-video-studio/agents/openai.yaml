@@ -1,0 +1,4 @@
+interface:
+  display_name: "C Pi AI Video Studio"
+  short_description: "Create branded videos from clips with Remotion"
+  default_prompt: "Use $c-pi-ai-video-studio to edit my uploaded clips into a branded social video."
