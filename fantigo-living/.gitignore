@@ -1,0 +1,8 @@
+media/
+output/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+__pycache__/
